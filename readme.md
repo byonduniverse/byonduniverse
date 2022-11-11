@@ -2,8 +2,6 @@ Hi there 👋
 
 # Sr. Full Stack Developer
 
----
-
 🏃 A senior web/web3 engineer with 8+ years of practical experience passionate about creating valuable products and equipped with a record of success. I contributed to
 bringing visions of several companies to a reality by making a great progress in the development team, finding solutions and determining customer satisfaction.
 

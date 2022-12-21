@@ -26,15 +26,15 @@ bringing visions of several companies to a reality by making a great progress in
 ---
 
 <p align="center">
-	<a href="https://github.com/flyasher">
-		<img align="center" src="https://github-profile-trophy.vercel.app/?username=flyasher" />
+	<a href="https://github.com/byonduniverse">
+		<img align="center" src="https://github-profile-trophy.vercel.app/?username=byonduniverse" />
 	</a>
 </p>
 <p align="center">
-	<a href="https://github.com/flyasher">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flyasher&langs_count=8&layout=compact&card_width=260&hide=html,scss,makefile,ruby,css,less" />
+	<a href="https://github.com/byonduniverse">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byonduniverse&langs_count=8&layout=compact&card_width=260&hide=html,scss,makefile,ruby,css,less" />
 	</a>
-	<a href="https://github.com/flyasher">
-		<img align="center" src="https://github-readme-stats.vercel.app/api?username=flyasher&show_icons=true&theme=dracula" />
+	<a href="https://github.com/byonduniverse">
+		<img align="center" src="https://github-readme-stats.vercel.app/api?username=byonduniverse&show_icons=true&theme=dracula" />
 	</a>
 </p>

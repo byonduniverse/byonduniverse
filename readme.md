@@ -20,21 +20,3 @@ bringing visions of several companies to a reality by making a great progress in
 - Ethereum, Solana, NEAR
 
 🔥 I am motivated by how amazing the product I create is and results I make. I am keen on learning new technologies and feel excited to take ownership and provide high-quality solutions by following best practices and latest trends.
-
-## My Github Stats
-
----
-
-<p align="center">
-	<a href="https://github.com/byonduniverse">
-		<img align="center" src="https://github-profile-trophy.vercel.app/?username=byonduniverse" />
-	</a>
-</p>
-<p align="center">
-	<a href="https://github.com/byonduniverse">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byonduniverse&langs_count=8&layout=compact&card_width=260&hide=html,scss,makefile,ruby,css,less" />
-	</a>
-	<a href="https://github.com/byonduniverse">
-		<img align="center" src="https://github-readme-stats.vercel.app/api?username=byonduniverse&show_icons=true&theme=dracula" />
-	</a>
-</p>
